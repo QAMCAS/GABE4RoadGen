@@ -26,4 +26,5 @@ In the following a short overview of the repository structure is given.
 
 - *figures*: This folder contains additional figures used for our result evaluation which are included in the paper.
 
-
+## Additional Information
+The results provided within this repository represent and support the findings of the study. Source code related data and artefacts of the study are available from the authors upon reasonable request.
