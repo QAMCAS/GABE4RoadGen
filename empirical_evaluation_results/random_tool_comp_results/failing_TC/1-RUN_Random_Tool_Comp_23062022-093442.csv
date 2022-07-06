@@ -1,0 +1,2 @@
+individual,road_points,test_outcome,description,timestamp
+"[(77, 191), (27, 189), (67, 92)]",<code_pipeline.tests_generation.RoadTestFactory.RoadTest object at 0x000002B9459792C8>,FAIL,Car drove out of the lane random_tool_comp\POP-0_cxpb-0_mutpb-0\0-RUN_POP-0_cxpb-0_mutpb-0_23062022-093442/sim_test_287_23062022-093442,23062022-102251

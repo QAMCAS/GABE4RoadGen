@@ -1,0 +1,602 @@
+min_oob_distance,max_oob_percentage,test_outcome,description,timestamp
+2,0.0,INVALID,The road is self-intersecting,23062022-093445
+2,0.0,INVALID,The road is too sharp,23062022-093445
+2,0.0,INVALID,The road is self-intersecting,23062022-093445
+2,0.0,INVALID,The road is self-intersecting,23062022-093445
+2,0.0,INVALID,The road is self-intersecting,23062022-093445
+0.8161798901326074,0.24168683831463977,PASS,Successful test,23062022-093540
+-0.4432891953559541,0.5295920982164745,PASS,Successful test,23062022-093618
+2,0.0,INVALID,The road is too sharp,23062022-093620
+1.3836090125814733,0.025696396000174482,PASS,Successful test,23062022-093653
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-093653
+1.3662448740182311,0.025695268290382378,PASS,Successful test,23062022-093729
+1.4563930866537962,0.025698127988529884,PASS,Successful test,23062022-093801
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-093801
+2,0.0,INVALID,The road is too sharp,23062022-093807
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-093807
+2,0.0,INVALID,The road is self-intersecting,23062022-093807
+1.7754103054605235,0.025692832341193017,PASS,Successful test,23062022-093831
+0.8215336983179138,0.025697868152183667,PASS,Successful test,23062022-093852
+2,0.0,INVALID,The road is too sharp,23062022-093854
+2,0.0,INVALID,The road is self-intersecting,23062022-093854
+0.5020611777895296,0.08079060180497966,PASS,Successful test,23062022-093919
+2,0.0,INVALID,The road is self-intersecting,23062022-093919
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-093919
+2,0.0,INVALID,The road is self-intersecting,23062022-093919
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-093919
+1.290015279427825,0.025695641507968214,PASS,Successful test,23062022-093951
+2,0.0,INVALID,The road is too sharp,23062022-093952
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-093952
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-093952
+2,0.0,INVALID,The road is self-intersecting,23062022-093952
+2,0.0,INVALID,The road is too sharp,23062022-093953
+2,0.0,INVALID,The road is self-intersecting,23062022-093953
+2,0.0,INVALID,The road is too sharp,23062022-093954
+2,0.0,INVALID,The road is self-intersecting,23062022-093954
+2,0.0,INVALID,The road is too sharp,23062022-093958
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-093958
+1.23133467680594,0.025695472983671364,PASS,Successful test,23062022-094014
+-0.6124289110171155,0.6174646197952799,PASS,Successful test,23062022-094058
+1.6159300842097921,0.0256970508881601,PASS,Successful test,23062022-094127
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094127
+0.4306829734160591,0.11778996767064154,PASS,Successful test,23062022-094159
+1.2711827858790525,0.027498893326655005,PASS,Successful test,23062022-094232
+2,0.0,INVALID,The road is too sharp,23062022-094234
+2,0.0,INVALID,The road is self-intersecting,23062022-094234
+2,0.0,INVALID,The road is self-intersecting,23062022-094234
+0.8520601175485825,0.025696677916266286,PASS,Successful test,23062022-094258
+0.7426168016196915,0.025695282602008485,PASS,Successful test,23062022-094326
+2,0.0,INVALID,The road is too sharp,23062022-094328
+1.6679888306822344,0.025697005363017777,PASS,Successful test,23062022-094408
+2,0.0,INVALID,The road is self-intersecting,23062022-094408
+1.6400331607270067,0.025696256118971528,PASS,Successful test,23062022-094433
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094433
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094433
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094433
+2,0.0,INVALID,The road is self-intersecting,23062022-094434
+2,0.0,INVALID,The road is too sharp,23062022-094436
+2,0.0,INVALID,The road is too sharp,23062022-094437
+2,0.0,INVALID,The road is self-intersecting,23062022-094437
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094437
+1.7645412344048061,0.025696131592565008,PASS,Successful test,23062022-094454
+2,0.0,INVALID,The road is self-intersecting,23062022-094454
+2,0.0,INVALID,The road is self-intersecting,23062022-094454
+1.6868651581997125,0.025696120761577124,PASS,Successful test,23062022-094513
+0.42480938709924754,0.1180559689841586,PASS,Successful test,23062022-094542
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094542
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094542
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094542
+2,0.0,INVALID,The road is too sharp,23062022-094546
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094546
+-0.004191229216491621,0.31615119650279333,PASS,Successful test,23062022-094615
+0.4602723334869028,0.09630026739658737,PASS,Successful test,23062022-094638
+1.1638352207273126,0.08090778879418115,PASS,Successful test,23062022-094711
+2,0.0,INVALID,The road is self-intersecting,23062022-094711
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094711
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094711
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094711
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094711
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094711
+2,0.0,INVALID,The road is too sharp,23062022-094713
+2,0.0,INVALID,The road is self-intersecting,23062022-094713
+0.9667037302661892,0.17804421723445907,PASS,Successful test,23062022-094747
+1.6901905664440182,0.025693491959654424,PASS,Successful test,23062022-094817
+2,0.0,INVALID,The road is too sharp,23062022-094819
+2,0.0,INVALID,The road is too sharp,23062022-094821
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-094821
+2,0.0,INVALID,The road is self-intersecting,23062022-094821
+2,0.0,INVALID,The road is self-intersecting,23062022-094821
+-1.0199972928909489,0.814579268578174,PASS,Successful test,23062022-094850
+0.8575728256564388,0.02569567604724421,PASS,Successful test,23062022-094908
+2,0.0,INVALID,The road is too sharp,23062022-094913
+2,0.0,INVALID,The road is self-intersecting,23062022-094913
+2,0.0,INVALID,The road is self-intersecting,23062022-094913
+0.0488655584030786,0.2875573641206032,PASS,Successful test,23062022-094934
+2,0.0,INVALID,The road is self-intersecting,23062022-094934
+2,0.0,INVALID,The road is self-intersecting,23062022-094934
+2,0.0,INVALID,The road is self-intersecting,23062022-094934
+-0.49277000004209937,0.5532389868695093,PASS,Successful test,23062022-095009
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095009
+1.5398128941590703,0.02569594174665102,PASS,Successful test,23062022-095035
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095035
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095035
+2,0.0,INVALID,The road is self-intersecting,23062022-095035
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095035
+1.0049046921119662,0.025695819759023797,PASS,Successful test,23062022-095118
+2,0.0,INVALID,The road is too sharp,23062022-095120
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095120
+2,0.0,INVALID,The road is too sharp,23062022-095121
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095121
+1.658973109276144,0.025695936981321887,PASS,Successful test,23062022-095144
+2,0.0,INVALID,The road is self-intersecting,23062022-095144
+2,0.0,INVALID,The road is too sharp,23062022-095149
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095149
+2,0.0,INVALID,The road is self-intersecting,23062022-095149
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095149
+1.058469256907052,0.12062148702332842,PASS,Successful test,23062022-095213
+2,0.0,INVALID,The road is too sharp,23062022-095215
+2,0.0,INVALID,The road is too sharp,23062022-095218
+2,0.0,INVALID,The road is too sharp,23062022-095222
+2,0.0,INVALID,The road is self-intersecting,23062022-095222
+1.15053136315534,0.07761470457842223,PASS,Successful test,23062022-095301
+2,0.0,INVALID,The road is self-intersecting,23062022-095301
+2,0.0,INVALID,The road is too sharp,23062022-095305
+2,0.0,INVALID,The road is too sharp,23062022-095307
+-0.06050006372932648,0.3498042584534875,PASS,Successful test,23062022-095338
+0.7883266780305227,0.025696084491571125,PASS,Successful test,23062022-095401
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095401
+2,0.0,INVALID,The road is too sharp,23062022-095402
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095402
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095402
+2,0.0,INVALID,The road is too sharp,23062022-095403
+2,0.0,INVALID,The road is self-intersecting,23062022-095403
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095403
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095403
+2,0.0,INVALID,The road is too sharp,23062022-095407
+1.1104006103639141,0.02569886976530744,PASS,Successful test,23062022-095428
+2,0.0,INVALID,The road is self-intersecting,23062022-095428
+2,0.0,INVALID,The road is self-intersecting,23062022-095428
+1.5687840461803868,0.025696307075639857,PASS,Successful test,23062022-095505
+1.6620644240876754,0.02569632882755246,PASS,Successful test,23062022-095527
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095527
+1.0405430672523042,0.025697119981743843,PASS,Successful test,23062022-095548
+-0.6991728097553498,0.6538368669975727,PASS,Successful test,23062022-095619
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095619
+2,0.0,INVALID,The road is self-intersecting,23062022-095619
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095619
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095619
+0.599218216856868,0.03372822989951696,PASS,Successful test,23062022-095647
+2,0.0,INVALID,The road is self-intersecting,23062022-095647
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095647
+2,0.0,INVALID,The road is too sharp,23062022-095652
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095652
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095652
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095652
+2,0.0,INVALID,The road is too sharp,23062022-095658
+1.1242098826380391,0.09539745519971699,PASS,Successful test,23062022-095743
+2,0.0,INVALID,The road is self-intersecting,23062022-095743
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095743
+2,0.0,INVALID,The road is self-intersecting,23062022-095743
+0.8108599739500257,0.02569633789257697,PASS,Successful test,23062022-095807
+2,0.0,INVALID,The road is self-intersecting,23062022-095807
+0.3660081038830878,0.4663620684231814,PASS,Successful test,23062022-095850
+2,0.0,INVALID,The road is self-intersecting,23062022-095850
+2,0.0,INVALID,The road is self-intersecting,23062022-095850
+1.442048326321042,0.025696111183517,PASS,Successful test,23062022-095918
+2,0.0,INVALID,The road is too sharp,23062022-095923
+2,0.0,INVALID,The road is self-intersecting,23062022-095923
+2,0.0,INVALID,The road is self-intersecting,23062022-095923
+2,0.0,INVALID,The road is self-intersecting,23062022-095923
+2,0.0,INVALID,The road is self-intersecting,23062022-095923
+2,0.0,INVALID,The road is too sharp,23062022-095926
+2,0.0,INVALID,The road is self-intersecting,23062022-095926
+2,0.0,INVALID,The road is too sharp,23062022-095929
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-095929
+2,0.0,INVALID,The road is too sharp,23062022-095930
+1.0665462666714127,0.12486357106280344,PASS,Successful test,23062022-095955
+1.6317202272220328,0.025699507944669686,PASS,Successful test,23062022-100017
+1.0099369454291662,0.14991403058517527,PASS,Successful test,23062022-100046
+0.728087780440964,0.025695655882254753,PASS,Successful test,23062022-100111
+2,0.0,INVALID,The road is self-intersecting,23062022-100112
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100112
+2,0.0,INVALID,The road is self-intersecting,23062022-100112
+2,0.0,INVALID,The road is too sharp,23062022-100113
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100113
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100113
+2,0.0,INVALID,The road is too sharp,23062022-100116
+2,0.0,INVALID,The road is too sharp,23062022-100121
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100121
+2,0.0,INVALID,The road is self-intersecting,23062022-100121
+0.3632200931877618,0.14394193859490068,PASS,Successful test,23062022-100214
+2,0.0,INVALID,The road is too sharp,23062022-100217
+1.3069473885636747,0.02569579203271477,PASS,Successful test,23062022-100236
+1.5157011170640768,0.025696396639055097,PASS,Successful test,23062022-100304
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100304
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100304
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100304
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100304
+2,0.0,INVALID,The road is self-intersecting,23062022-100304
+2,0.0,INVALID,The road is self-intersecting,23062022-100304
+1.3242137422532188,0.025695107804971418,PASS,Successful test,23062022-100327
+0.889488269089169,0.20597228352801444,PASS,Successful test,23062022-100402
+2,0.0,INVALID,The road is self-intersecting,23062022-100402
+2,0.0,INVALID,The road is too sharp,23062022-100408
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100408
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100408
+2,0.0,INVALID,The road is self-intersecting,23062022-100408
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100408
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100408
+0.9416706051227868,0.02569495985845216,PASS,Successful test,23062022-100429
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100429
+2,0.0,INVALID,The road is self-intersecting,23062022-100429
+2,0.0,INVALID,The road is too sharp,23062022-100431
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100431
+2,0.0,INVALID,The road is too sharp,23062022-100433
+0.550190504676018,0.055437412011867804,PASS,Successful test,23062022-100454
+2,0.0,INVALID,The road is too sharp,23062022-100457
+2,0.0,INVALID,The road is too sharp,23062022-100459
+2,0.0,INVALID,The road is self-intersecting,23062022-100459
+2,0.0,INVALID,The road is too sharp,23062022-100501
+2,0.0,INVALID,The road is too sharp,23062022-100506
+2,0.0,INVALID,The road is too sharp,23062022-100507
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100507
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100507
+-0.1477060796715386,0.39092586179511135,PASS,Successful test,23062022-100534
+2,0.0,INVALID,The road is too sharp,23062022-100536
+2,0.0,INVALID,The road is too sharp,23062022-100537
+0.8380484125976597,0.02569574385814266,PASS,Successful test,23062022-100603
+2,0.0,INVALID,The road is self-intersecting,23062022-100603
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100603
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100603
+0.6444412359180733,0.02569624660637504,PASS,Successful test,23062022-100626
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100626
+1.3633770632134685,0.025696146430629896,PASS,Successful test,23062022-100657
+2,0.0,INVALID,The road is self-intersecting,23062022-100657
+1.2438280034623679,0.03855728138533998,PASS,Successful test,23062022-100732
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100732
+1.1899936540622613,0.02569434871802545,PASS,Successful test,23062022-100750
+2,0.0,INVALID,The road is too sharp,23062022-100750
+2,0.0,INVALID,The road is too sharp,23062022-100752
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100752
+1.5219721522452474,0.02569785236957911,PASS,Successful test,23062022-100818
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100818
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100818
+2,0.0,INVALID,The road is self-intersecting,23062022-100818
+-0.4554513936696698,0.5454216635948794,PASS,Successful test,23062022-100843
+0.9323064555085094,0.1852071661495851,PASS,Successful test,23062022-100925
+1.7273038492605859,0.025695157071581876,PASS,Successful test,23062022-100948
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100948
+2,0.0,INVALID,The road is self-intersecting,23062022-100948
+2,0.0,INVALID,The road is too sharp,23062022-100951
+2,0.0,INVALID,The road is too sharp,23062022-100955
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-100955
+-0.09828700926170253,0.35696852384390365,PASS,Successful test,23062022-101035
+2,0.0,INVALID,The road is self-intersecting,23062022-101035
+0.7513518611490471,0.2768204713734759,PASS,Successful test,23062022-101104
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101104
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101104
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101104
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101104
+2,0.0,INVALID,The road is too sharp,23062022-101111
+0.08398897209267586,0.27980475824471074,PASS,Successful test,23062022-101154
+0.822679120041623,0.025695773744893846,PASS,Successful test,23062022-101215
+1.6532427643007428,0.025694721273826326,PASS,Successful test,23062022-101241
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101241
+2,0.0,INVALID,The road is self-intersecting,23062022-101241
+2,0.0,INVALID,The road is self-intersecting,23062022-101241
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101241
+2,0.0,INVALID,The road is self-intersecting,23062022-101241
+2,0.0,INVALID,The road is self-intersecting,23062022-101241
+2,0.0,INVALID,The road is self-intersecting,23062022-101241
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101241
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101241
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101241
+2,0.0,INVALID,The road is too sharp,23062022-101243
+2,0.0,INVALID,The road is too sharp,23062022-101245
+2,0.0,INVALID,The road is self-intersecting,23062022-101245
+2,0.0,INVALID,The road is self-intersecting,23062022-101245
+2,0.0,INVALID,The road is self-intersecting,23062022-101245
+2,0.0,INVALID,The road is too sharp,23062022-101253
+0.460344663784912,0.09920254364441339,PASS,Successful test,23062022-101325
+1.2093738312552036,0.02569729443579205,PASS,Successful test,23062022-101346
+2,0.0,INVALID,The road is self-intersecting,23062022-101346
+0.6526290940137722,0.320064605055294,PASS,Successful test,23062022-101425
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101425
+2,0.0,INVALID,The road is too sharp,23062022-101425
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101425
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101425
+2,0.0,INVALID,The road is self-intersecting,23062022-101425
+2,0.0,INVALID,The road is too sharp,23062022-101426
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101426
+2,0.0,INVALID,The road is too sharp,23062022-101428
+1.204682504084825,0.05739639340908942,PASS,Successful test,23062022-101458
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101459
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101459
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101459
+2,0.0,INVALID,The road is self-intersecting,23062022-101459
+1.2252335766552347,0.04637482575104401,PASS,Successful test,23062022-101527
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101527
+2,0.0,INVALID,The road is self-intersecting,23062022-101527
+2,0.0,INVALID,The road is too sharp,23062022-101529
+0.3528212892158975,0.15340680154858988,PASS,Successful test,23062022-101602
+0.9268804270852009,0.025696714739541493,PASS,Successful test,23062022-101626
+0.6696684229735181,0.3165936436943435,PASS,Successful test,23062022-101705
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101705
+1.2285232995024469,0.04680410996536155,PASS,Successful test,23062022-101738
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101738
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101738
+2,0.0,INVALID,The road is too sharp,23062022-101741
+2,0.0,INVALID,The road is too sharp,23062022-101742
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101742
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101742
+2,0.0,INVALID,The road is too sharp,23062022-101744
+0.49926285039398044,0.40344114732631675,PASS,Successful test,23062022-101806
+0.25950881302997186,0.19424698557279396,PASS,Successful test,23062022-101843
+-0.09433468191074912,0.6828469718646569,PASS,Successful test,23062022-101914
+2,0.0,INVALID,The road is self-intersecting,23062022-101914
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101914
+2,0.0,INVALID,The road is self-intersecting,23062022-101914
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101914
+2,0.0,INVALID,The road is too sharp,23062022-101915
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101915
+2,0.0,INVALID,The road is self-intersecting,23062022-101915
+2,0.0,INVALID,The road is self-intersecting,23062022-101915
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101915
+2,0.0,INVALID,The road is too sharp,23062022-101917
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101917
+0.7232629044321435,0.025695851316369756,PASS,Successful test,23062022-101943
+2,0.0,INVALID,The road is self-intersecting,23062022-101943
+2,0.0,INVALID,The road is self-intersecting,23062022-101943
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101943
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-101943
+2,0.0,INVALID,The road is too sharp,23062022-101946
+0.7082547769662206,0.02569573279920967,PASS,Successful test,23062022-102006
+0.36045622764958063,0.14495992812251912,PASS,Successful test,23062022-102033
+1.508084030126682,0.025693430183515997,PASS,Successful test,23062022-102052
+1.6568576629165568,0.02569664179097675,PASS,Successful test,23062022-102116
+1.0517619483221385,0.025696332818080703,PASS,Successful test,23062022-102141
+2,0.0,INVALID,The road is self-intersecting,23062022-102141
+-0.10964691891123213,0.6973689243020613,PASS,Successful test,23062022-102211
+0.0014875534640277355,0.3185250156721837,PASS,Successful test,23062022-102239
+1.193889672245085,0.06755807526108415,PASS,Successful test,23062022-102322
+2,0.0,INVALID,The road is too sharp,23062022-102325
+1.1792148399491897,0.07274535187856002,PASS,Successful test,23062022-102400
+1.4791009893617755,0.025693646724759933,PASS,Successful test,23062022-102426
+2,0.0,INVALID,The road is too sharp,23062022-102428
+1.5754243538721022,0.025697033938445912,PASS,Successful test,23062022-102457
+1.2466617884689684,0.03854108533487122,PASS,Successful test,23062022-102523
+2,0.0,INVALID,The road is too sharp,23062022-102525
+0.9689779589851,0.025693996752056747,PASS,Successful test,23062022-102552
+2,0.0,INVALID,The road is too sharp,23062022-102555
+2,0.0,INVALID,The road is too sharp,23062022-102557
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-102557
+2,0.0,INVALID,The road is self-intersecting,23062022-102557
+2,0.0,INVALID,The road is self-intersecting,23062022-102557
+0.5930823689330476,0.038273612563024195,PASS,Successful test,23062022-102618
+2,0.0,INVALID,The road is too sharp,23062022-102626
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-102626
+1.0773834521957377,0.11530632059752788,PASS,Successful test,23062022-102652
+1.2997479887584849,0.025695557079935205,PASS,Successful test,23062022-102726
+2,0.0,INVALID,The road is too sharp,23062022-102726
+2,0.0,INVALID,The road is self-intersecting,23062022-102726
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-102726
+2,0.0,INVALID,The road is self-intersecting,23062022-102726
+-0.6826013882010087,0.6618942686739491,PASS,Successful test,23062022-102805
+2,0.0,INVALID,The road is self-intersecting,23062022-102805
+1.355191190870047,0.02569624336778331,PASS,Successful test,23062022-102836
+-0.03420498161699248,0.3320597313703969,PASS,Successful test,23062022-102902
+1.4115693161051386,0.02569588153162683,PASS,Successful test,23062022-102935
+2,0.0,INVALID,The road is self-intersecting,23062022-102935
+2,0.0,INVALID,The road is self-intersecting,23062022-102935
+2,0.0,INVALID,The road is self-intersecting,23062022-102935
+2,0.0,INVALID,The road is self-intersecting,23062022-102935
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-102935
+2,0.0,INVALID,The road is self-intersecting,23062022-102935
+2,0.0,INVALID,The road is self-intersecting,23062022-102935
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-102935
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-102935
+1.3481923841857264,0.025695726132815788,PASS,Successful test,23062022-103004
+2,0.0,INVALID,The road is self-intersecting,23062022-103004
+2,0.0,INVALID,The road is too sharp,23062022-103011
+1.7105022485857866,0.025695949193970336,PASS,Successful test,23062022-103032
+2,0.0,INVALID,The road is too sharp,23062022-103035
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103035
+1.3344900759993708,0.025694014795695885,PASS,Successful test,23062022-103059
+1.5306257228072873,0.02569842540132028,PASS,Successful test,23062022-103126
+1.3460017931140182,0.025695803935306127,PASS,Successful test,23062022-103205
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103205
+1.2615592651055818,0.02569567785087523,PASS,Successful test,23062022-103231
+2,0.0,INVALID,The road is too sharp,23062022-103235
+2,0.0,INVALID,The road is too sharp,23062022-103239
+2,0.0,INVALID,The road is self-intersecting,23062022-103239
+2,0.0,INVALID,The road is self-intersecting,23062022-103239
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103239
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103239
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103239
+2,0.0,INVALID,The road is too sharp,23062022-103240
+2,0.0,INVALID,The road is self-intersecting,23062022-103240
+1.6400569105107985,0.025695926512560252,PASS,Successful test,23062022-103300
+1.1981854995798147,0.060491010926531086,PASS,Successful test,23062022-103325
+2,0.0,INVALID,The road is too sharp,23062022-103326
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103326
+2,0.0,INVALID,The road is self-intersecting,23062022-103326
+2,0.0,INVALID,The road is self-intersecting,23062022-103326
+2,0.0,INVALID,The road is too sharp,23062022-103329
+2,0.0,INVALID,The road is too sharp,23062022-103333
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103333
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103333
+0.366295451560273,0.14447458821236314,PASS,Successful test,23062022-103353
+2,0.0,INVALID,The road is self-intersecting,23062022-103353
+2,0.0,INVALID,The road is self-intersecting,23062022-103353
+1.0235819842789287,0.14042671903034643,PASS,Successful test,23062022-103436
+2,0.0,INVALID,The road is self-intersecting,23062022-103436
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103436
+2,0.0,INVALID,The road is too sharp,23062022-103437
+2,0.0,INVALID,The road is too sharp,23062022-103438
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103438
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103438
+1.256828213766907,0.03272715913934676,PASS,Successful test,23062022-103506
+0.7073090399606876,0.29377703618563955,PASS,Successful test,23062022-103544
+1.6751272832923305,0.025694602081977824,PASS,Successful test,23062022-103608
+2,0.0,INVALID,The road is self-intersecting,23062022-103608
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103608
+2,0.0,INVALID,The road is too sharp,23062022-103615
+2,0.0,INVALID,The road is too sharp,23062022-103617
+2,0.0,INVALID,The road is self-intersecting,23062022-103618
+2,0.0,INVALID,The road is self-intersecting,23062022-103618
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103618
+1.3056847435508745,0.025696406484336576,PASS,Successful test,23062022-103636
+0.7476388394189752,0.025696100270132693,PASS,Successful test,23062022-103658
+2,0.0,INVALID,The road is self-intersecting,23062022-103658
+2,0.0,INVALID,The road is self-intersecting,23062022-103658
+1.8238859924896578,0.02569477026226119,PASS,Successful test,23062022-103720
+1.5268340993462877,0.025695408477248383,PASS,Successful test,23062022-103739
+0.9839820217486515,0.025694972229388546,PASS,Successful test,23062022-103805
+2,0.0,INVALID,The road is self-intersecting,23062022-103805
+2,0.0,INVALID,The road is self-intersecting,23062022-103805
+2,0.0,INVALID,The road is too sharp,23062022-103810
+1.0562546081045203,0.025693822065564365,PASS,Successful test,23062022-103831
+2,0.0,INVALID,The road is self-intersecting,23062022-103831
+1.5490580850974767,0.025695735828601074,PASS,Successful test,23062022-103900
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103900
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103900
+2,0.0,INVALID,The road is self-intersecting,23062022-103900
+2,0.0,INVALID,The road is self-intersecting,23062022-103900
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103900
+2,0.0,INVALID,The road is too sharp,23062022-103904
+2,0.0,INVALID,The road is too sharp,23062022-103904
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103904
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103904
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103904
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103904
+2,0.0,INVALID,The road is too sharp,23062022-103910
+1.499111594456093,0.025695648951607142,PASS,Successful test,23062022-103935
+2,0.0,INVALID,The road is self-intersecting,23062022-103935
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-103935
+2,0.0,INVALID,The road is self-intersecting,23062022-103935
+2,0.0,INVALID,The road is self-intersecting,23062022-103935
+2,0.0,INVALID,The road is too sharp,23062022-103941
+0.8137253450046429,0.025695874201494884,PASS,Successful test,23062022-104004
+2,0.0,INVALID,The road is too sharp,23062022-104006
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104006
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104006
+2,0.0,INVALID,The road is too sharp,23062022-104008
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104008
+2,0.0,INVALID,The road is self-intersecting,23062022-104008
+2,0.0,INVALID,The road is self-intersecting,23062022-104008
+2,0.0,INVALID,The road is too sharp,23062022-104012
+2,0.0,INVALID,The road is self-intersecting,23062022-104012
+1.2981451480122947,0.02569594860519997,PASS,Successful test,23062022-104053
+1.3272117645782566,0.025696294476038606,PASS,Successful test,23062022-104128
+2,0.0,INVALID,The road is too sharp,23062022-104129
+2,0.0,INVALID,The road is too sharp,23062022-104129
+1.7424748964979777,0.025696134521874026,PASS,Successful test,23062022-104152
+-0.31769784421811353,0.46851387086742413,PASS,Successful test,23062022-104217
+2,0.0,INVALID,The road is self-intersecting,23062022-104217
+0.46723184043057,0.09430767465421286,PASS,Successful test,23062022-104244
+2,0.0,INVALID,The road is self-intersecting,23062022-104244
+2,0.0,INVALID,The road is self-intersecting,23062022-104244
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104244
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104244
+1.2886608437818943,0.02569663085274232,PASS,Successful test,23062022-104310
+2,0.0,INVALID,The road is too sharp,23062022-104311
+0.9580226133567367,0.025695372094431734,PASS,Successful test,23062022-104335
+0.5571148322844857,0.05153132347069489,PASS,Successful test,23062022-104408
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104408
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104408
+2,0.0,INVALID,The road is self-intersecting,23062022-104408
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104408
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104408
+2,0.0,INVALID,The road is self-intersecting,23062022-104408
+0.9009907477252475,0.025696478477461815,PASS,Successful test,23062022-104428
+2,0.0,INVALID,The road is too sharp,23062022-104430
+2,0.0,INVALID,The road is self-intersecting,23062022-104430
+2,0.0,INVALID,The road is too sharp,23062022-104435
+2,0.0,INVALID,The road is too sharp,23062022-104436
+2,0.0,INVALID,The road is too sharp,23062022-104442
+0.6202729482696838,0.025695435932958754,PASS,Successful test,23062022-104511
+2,0.0,INVALID,The road is self-intersecting,23062022-104511
+0.881575450603193,0.025699130831625228,PASS,Successful test,23062022-104540
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104540
+2,0.0,INVALID,The road is too sharp,23062022-104542
+2,0.0,INVALID,The road is too sharp,23062022-104548
+0.7711511719941542,0.025693473013873813,PASS,Successful test,23062022-104611
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104611
+2,0.0,INVALID,The road is self-intersecting,23062022-104611
+2,0.0,INVALID,The road is too sharp,23062022-104613
+2,0.0,INVALID,The road is too sharp,23062022-104613
+2,0.0,INVALID,The road is self-intersecting,23062022-104613
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104613
+2,0.0,INVALID,The road is self-intersecting,23062022-104613
+2,0.0,INVALID,The road is self-intersecting,23062022-104613
+2,0.0,INVALID,The road is self-intersecting,23062022-104613
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104614
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104614
+2,0.0,INVALID,The road is self-intersecting,23062022-104614
+0.18654131764726078,0.22325442312540655,PASS,Successful test,23062022-104645
+1.5958535066633777,0.025694128722015375,PASS,Successful test,23062022-104709
+2,0.0,INVALID,The road is too sharp,23062022-104710
+0.5173303144754671,0.06987703470558393,PASS,Successful test,23062022-104736
+2,0.0,INVALID,The road is self-intersecting,23062022-104736
+1.3659406428715064,0.02569553256624657,PASS,Successful test,23062022-104753
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104753
+2,0.0,INVALID,The road is too sharp,23062022-104758
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104758
+2,0.0,INVALID,The road is self-intersecting,23062022-104758
+2,0.0,INVALID,The road is self-intersecting,23062022-104758
+2,0.0,INVALID,The road is self-intersecting,23062022-104758
+2,0.0,INVALID,The road is too sharp,23062022-104800
+2,0.0,INVALID,The road is too sharp,23062022-104806
+2,0.0,INVALID,The road is self-intersecting,23062022-104806
+2,0.0,INVALID,The road is self-intersecting,23062022-104806
+2,0.0,INVALID,The road is self-intersecting,23062022-104806
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104806
+0.9648189590209375,0.025695844952238978,PASS,Successful test,23062022-104829
+2,0.0,INVALID,The road is self-intersecting,23062022-104829
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-104829
+2,0.0,INVALID,The road is self-intersecting,23062022-104829
+2,0.0,INVALID,The road is self-intersecting,23062022-104829
+0.8601225879113876,0.22330944548797127,PASS,Successful test,23062022-104904
+0.8002276870862479,0.025695931631101288,PASS,Successful test,23062022-104931
+0.5690310849923521,0.3700424436471499,PASS,Successful test,23062022-105014
+2,0.0,INVALID,The road is too sharp,23062022-105016
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105016
+2,0.0,INVALID,The road is self-intersecting,23062022-105017
+2,0.0,INVALID,The road is too sharp,23062022-105018
+1.396713628935733,0.02569705935133182,PASS,Successful test,23062022-105053
+0.5036138448997336,0.0770839347461445,PASS,Successful test,23062022-105128
+2,0.0,INVALID,The road is too sharp,23062022-105129
+2,0.0,INVALID,The road is self-intersecting,23062022-105129
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105129
+2,0.0,INVALID,The road is too sharp,23062022-105132
+2,0.0,INVALID,The road is self-intersecting,23062022-105132
+1.4388694261375066,0.02569524964941383,PASS,Successful test,23062022-105205
+0.9757111273003742,0.0256951962034645,PASS,Successful test,23062022-105234
+2,0.0,INVALID,The road is too sharp,23062022-105238
+2,0.0,INVALID,The road is too sharp,23062022-105241
+2,0.0,INVALID,The road is self-intersecting,23062022-105241
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105241
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105241
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105241
+2,0.0,INVALID,The road is too sharp,23062022-105243
+1.360321981835968,0.025694373710502205,PASS,Successful test,23062022-105305
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105305
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105305
+0.4731130464499218,0.09037233744009543,PASS,Successful test,23062022-105329
+2,0.0,INVALID,The road is too sharp,23062022-105330
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105330
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105330
+2,0.0,INVALID,The road is self-intersecting,23062022-105330
+1.16687405610211,0.025695386341457405,PASS,Successful test,23062022-105354
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105354
+2,0.0,INVALID,The road is self-intersecting,23062022-105354
+2,0.0,INVALID,The road is self-intersecting,23062022-105354
+2,0.0,INVALID,The road is self-intersecting,23062022-105354
+0.11202229720352763,0.2623560583901767,PASS,Successful test,23062022-105432
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105432
+1.5615163413628501,0.025696071184180158,PASS,Successful test,23062022-105501
+2,0.0,INVALID,The road is self-intersecting,23062022-105501
+1.1409519771180898,0.025696932272026296,PASS,Successful test,23062022-105523
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105524
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105524
+2,0.0,INVALID,The road is self-intersecting,23062022-105524
+-0.0239087589428455,0.3203585577516673,PASS,Successful test,23062022-105552
+2,0.0,INVALID,The road is too sharp,23062022-105553
+2,0.0,INVALID,The road is self-intersecting,23062022-105553
+2,0.0,INVALID,The road is too sharp,23062022-105557
+2,0.0,INVALID,The road is self-intersecting,23062022-105557
+0.17966379182728343,0.23751684266627016,PASS,Successful test,23062022-105628
+2,0.0,INVALID,The road is self-intersecting,23062022-105628
+2,0.0,INVALID,The road is self-intersecting,23062022-105628
+2,0.0,INVALID,The road is self-intersecting,23062022-105628
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105628
+0.6264878978620319,0.025697067558770437,PASS,Successful test,23062022-105700
+2,0.0,INVALID,The road is too sharp,23062022-105705
+2,0.0,INVALID,The road is too sharp,23062022-105707
+2,0.0,INVALID,The road is self-intersecting,23062022-105707
+2,0.0,INVALID,The road is too sharp,23062022-105708
+2,0.0,INVALID,Not entirely inside the map boundaries,23062022-105708
+2,0.0,INVALID,The road is too sharp,23062022-105712
+0.9119503367860808,0.025695235495785007,PASS,Successful test,23062022-105742
+1.0075380095365825,0.025695862948909465,PASS,Successful test,23062022-105802
+1.5289778092400612,0.025696606896976837,PASS,Successful test,23062022-105828

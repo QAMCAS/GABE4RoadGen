@@ -1,0 +1,160 @@
+min_oob_distance,max_oob_percentage,test_outcome,description,timestamp
+2,0.0,INVALID,The road is too sharp,08062022-184959
+-0.62748625071597,0.6319071228018385,PASS,Successful test,08062022-185044
+0.8965579981669554,0.1079756116978946,PASS,Successful test,08062022-185118
+2,0.0,INVALID,The road is too sharp,08062022-185120
+-0.42275302263795345,0.5197661868291418,PASS,Successful test,08062022-185153
+-0.1794429358172147,0.40321692483710425,PASS,Successful test,08062022-185229
+0.843517296750766,0.025696370593173645,PASS,Successful test,08062022-185256
+2,0.0,INVALID,The road is too sharp,08062022-185259
+0.26824573636455984,0.18617177136680851,PASS,Successful test,08062022-185333
+-0.1033585022661172,0.36898193022512094,PASS,Successful test,08062022-185410
+-0.008146887325049423,0.31562500986561304,PASS,Successful test,08062022-185448
+-0.7286832236663514,0.6741800273996498,PASS,Successful test,08062022-185522
+-0.7027348718103461,0.6434121487822233,PASS,Successful test,08062022-185557
+-0.3069034940356179,0.4835434474964505,PASS,Successful test,08062022-185630
+-0.45336147984728115,0.5408752281672429,PASS,Successful test,08062022-185703
+-0.24839981822014634,0.45861560084430786,PASS,Successful test,08062022-185737
+0.7712067382508379,0.025696370593173645,PASS,Successful test,08062022-185806
+-0.7466622150286808,0.6820478365712233,PASS,Successful test,08062022-185839
+-0.7556676755092768,0.6866707811978985,PASS,Successful test,08062022-185912
+-0.7439719970357688,0.6808819283020766,PASS,Successful test,08062022-185945
+-0.44937789939684025,0.5360285568390208,PASS,Successful test,08062022-190018
+-0.44997912969907183,0.536362106095478,PASS,Successful test,08062022-190052
+-1.285625336831537,0.9201366667743492,PASS,Successful test,08062022-190125
+-0.7316147963811863,0.6749644264302959,PASS,Successful test,08062022-190158
+-0.8195147377094774,0.7002825791274538,PASS,Successful test,08062022-190232
+-1.1848039774546395,0.9162283533314294,PASS,Successful test,08062022-190307
+-0.6990622341303547,0.636729734337715,PASS,Successful test,08062022-190341
+-0.8441738284126696,0.71548435291955,PASS,Successful test,08062022-190415
+-0.7638504070666801,0.6887613314542333,PASS,Successful test,08062022-190450
+0.14229226722266985,0.24713986893116902,PASS,Successful test,08062022-190526
+2,0.0,INVALID,The road is too sharp,08062022-190528
+-1.2103516758028259,0.8907908508907045,PASS,Successful test,08062022-190603
+2,0.0,INVALID,The road is too sharp,08062022-190605
+-1.306508597917904,0.9338567123737398,PASS,Successful test,08062022-190639
+-0.8147861223666419,0.7270199015594312,PASS,Successful test,08062022-190714
+-0.9224271690826056,0.7575601397644491,PASS,Successful test,08062022-190749
+2,0.0,INVALID,The road is too sharp,08062022-190751
+-1.0361914142281505,0.7977738473743036,PASS,Successful test,08062022-190825
+-1.2046278157238093,0.9033767656823255,PASS,Successful test,08062022-190859
+-1.1104041911266505,0.8343476994550235,PASS,Successful test,08062022-190935
+-1.2091613791871008,0.90570934591183,PASS,Successful test,08062022-191010
+-1.1615029504643144,0.8623031276503378,PASS,Successful test,08062022-191044
+-0.6846623064359947,0.6462413053722416,PASS,Successful test,08062022-191119
+-1.115830876787712,0.874486135897033,PASS,Successful test,08062022-191154
+-1.2413466850560049,0.933505469647701,PASS,Successful test,08062022-191229
+-1.2021241578352546,0.9193917211378801,PASS,Successful test,08062022-191304
+-1.2072049551072745,0.8814461250573506,PASS,Successful test,08062022-191339
+-1.0820265559382332,0.8190283011805064,PASS,Successful test,08062022-191413
+-0.9666709945779464,0.7631667025481624,PASS,Successful test,08062022-191448
+-0.8859649074903828,0.7774225965198378,PASS,Successful test,08062022-191522
+-1.2585718423066767,0.9395541194364678,PASS,Successful test,08062022-191558
+-1.282165820521533,0.9476682917723028,PASS,Successful test,08062022-191632
+-1.0891018310726501,0.8220618664919479,PASS,Successful test,08062022-191708
+-1.2553480014484721,0.9056373428767812,PASS,Successful test,08062022-191743
+-1.3358660439061532,0.9504174362626464,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_803_08062022-184956,08062022-191813
+-1.3358846794728407,0.9498428949184399,PASS,Successful test,08062022-191848
+-1.3442649723782316,0.9641147023805682,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_805_08062022-184956,08062022-191920
+-1.0588505369506462,0.8562706021988177,PASS,Successful test,08062022-191955
+-0.9619053009419716,0.787638843205771,PASS,Successful test,08062022-192029
+-1.1781976804256202,0.8659511796424345,PASS,Successful test,08062022-192105
+-1.248956845539848,0.9349694022155461,PASS,Successful test,08062022-192139
+-1.3290482190908066,0.9444226975339268,PASS,Successful test,08062022-192213
+-1.227269621086867,0.8919341808011535,PASS,Successful test,08062022-192247
+-1.3498652247441538,0.9650134738236074,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_812_08062022-184956,08062022-192319
+-1.1456323004966715,0.8737201219376984,PASS,Successful test,08062022-192354
+-1.3273302078105758,0.9612030266665155,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_814_08062022-184956,08062022-192425
+-1.5546613953340156,0.9670874831832637,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_815_08062022-184956,08062022-192457
+-1.2755223292381719,0.9461613938595939,PASS,Successful test,08062022-192533
+-1.3037011560213752,0.9327577912448498,PASS,Successful test,08062022-192608
+-1.202137554925513,0.9203949696200882,PASS,Successful test,08062022-192642
+-1.3138062055059163,0.9561873970052209,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_819_08062022-184956,08062022-192714
+0.036594091956451136,0.2848953041472375,PASS,Successful test,08062022-192749
+-1.8211697653710197,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_821_08062022-184956,08062022-192821
+-1.6130148634160184,0.9787006405893298,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_822_08062022-184956,08062022-192852
+-1.4031890331882568,0.951322710506189,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_823_08062022-184956,08062022-192924
+-1.0766496033110187,0.8685979837379227,PASS,Successful test,08062022-192958
+-1.2337875297430902,0.9316508832073944,PASS,Successful test,08062022-193033
+-1.2043073890404412,0.9211658637968543,PASS,Successful test,08062022-193108
+-1.8227612599433503,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_827_08062022-184956,08062022-193141
+-1.2471454737202454,0.9343689598071723,PASS,Successful test,08062022-193216
+-1.7962120686429723,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_829_08062022-184956,08062022-193247
+-1.636750514905971,0.982726279642631,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_830_08062022-184956,08062022-193318
+-1.6319627291666143,0.9819486468776988,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_831_08062022-184956,08062022-193351
+-1.1675023731232685,0.8730599883447057,PASS,Successful test,08062022-193426
+-1.6915248678973756,0.9923750368019427,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_833_08062022-184956,08062022-193457
+-1.7805828489312021,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_834_08062022-184956,08062022-193528
+-1.2702655164292285,0.9440903081074877,PASS,Successful test,08062022-193603
+2,0.0,INVALID,The road is too sharp,08062022-193605
+-1.4961018484966662,0.9525649571448086,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_837_08062022-184956,08062022-193638
+-1.6163059667990298,0.9798120297835923,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_838_08062022-184956,08062022-193710
+-1.6124888786845806,0.9793059291377428,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_839_08062022-184956,08062022-193741
+-1.8001571374341059,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_840_08062022-184956,08062022-193814
+-1.691082343898863,0.9915803032034852,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_841_08062022-184956,08062022-193848
+0.07651110077861367,0.2903677088525287,PASS,Successful test,08062022-193922
+-1.7605955004099765,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_843_08062022-184956,08062022-193954
+-1.8043862214202018,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_844_08062022-184956,08062022-194027
+-1.8129987623549648,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_845_08062022-184956,08062022-194059
+-1.825526588886154,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_846_08062022-184956,08062022-194131
+-1.8017694653921192,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_847_08062022-184956,08062022-194202
+-1.827161021544081,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_848_08062022-184956,08062022-194234
+2,0.0,INVALID,The road is too sharp,08062022-194236
+-1.8190219926623872,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_850_08062022-184956,08062022-194307
+-1.8161939904192037,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_851_08062022-184956,08062022-194338
+-1.8192570792783407,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_852_08062022-184956,08062022-194410
+-1.8051194615299821,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_853_08062022-184956,08062022-194441
+-1.6733365383415908,0.9894523976949307,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_854_08062022-184956,08062022-194513
+-1.7724574851497712,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_855_08062022-184956,08062022-194544
+-1.7786332394279678,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_856_08062022-184956,08062022-194616
+-1.8137025959382518,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_857_08062022-184956,08062022-194647
+-1.7703180066352497,0.99979481027609,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_858_08062022-184956,08062022-194718
+-1.1210440598058313,0.8846593847295116,PASS,Successful test,08062022-194754
+-1.7607874962829237,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_860_08062022-184956,08062022-194826
+-1.794026382074681,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_861_08062022-184956,08062022-194858
+-1.7823748046409134,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_862_08062022-184956,08062022-194929
+-1.633119853090963,0.9827978887663761,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_863_08062022-184956,08062022-195000
+-1.5056090436404719,0.9798298701514215,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_864_08062022-184956,08062022-195033
+-1.7680376866700453,0.9996569033885081,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_865_08062022-184956,08062022-195104
+-1.527603697414217,0.9602644678861858,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_866_08062022-184956,08062022-195136
+-1.6991017565674738,0.9931981977939578,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_867_08062022-184956,08062022-195207
+-1.3901134248509566,0.9239856204729341,PASS,Successful test,08062022-195242
+-1.80187860196662,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_869_08062022-184956,08062022-195314
+-1.7041766156303892,0.999560973969025,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_870_08062022-184956,08062022-195346
+-1.7344416231548578,0.99714889937041,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_871_08062022-184956,08062022-195418
+-1.8230273899720055,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_872_08062022-184956,08062022-195449
+-1.7605526441175177,0.9991762723899308,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_873_08062022-184956,08062022-195521
+-1.7455737213115121,0.9980230390329619,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_874_08062022-184956,08062022-195550
+-1.803999194457802,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_875_08062022-184956,08062022-195622
+-1.7978946392726254,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_876_08062022-184956,08062022-195654
+-1.8161270266757974,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_877_08062022-184956,08062022-195726
+-1.7462502929946662,0.998317714574683,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_878_08062022-184956,08062022-195758
+-1.5064993369710113,0.9554355586251994,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_879_08062022-184956,08062022-195829
+-1.78271917438903,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_880_08062022-184956,08062022-195901
+-1.73828928004083,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_881_08062022-184956,08062022-195933
+-1.821490437354726,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_882_08062022-184956,08062022-200004
+-1.683384113125053,0.9914107351594973,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_883_08062022-184956,08062022-200037
+-1.7599579530563587,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_884_08062022-184956,08062022-200109
+-1.8242945871769085,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_885_08062022-184956,08062022-200141
+-1.6619522702157163,0.9870945379811311,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_886_08062022-184956,08062022-200212
+-1.6643982050575117,0.9876681396661688,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_887_08062022-184956,08062022-200244
+-1.7897894096274443,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_888_08062022-184956,08062022-200316
+-1.6441012387114142,0.9963074389315519,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_889_08062022-184956,08062022-200349
+-0.7852215797741238,0.7227089661876356,PASS,Successful test,08062022-200424
+-1.6332497090116114,0.9952833025467807,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_891_08062022-184956,08062022-200455
+-1.8140452429728358,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_892_08062022-184956,08062022-200527
+-1.8246009528366032,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_893_08062022-184956,08062022-200558
+-1.5896950452325487,0.9747769539007832,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_894_08062022-184956,08062022-200629
+-1.811185835773927,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_895_08062022-184956,08062022-200701
+-1.6499731518305096,0.9967844149443816,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_896_08062022-184956,08062022-200732
+-1.79507051329713,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_897_08062022-184956,08062022-200803
+-1.7487950322444257,0.9984105604953072,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_898_08062022-184956,08062022-200835
+-1.4162539800635847,0.964567254817418,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_899_08062022-184956,08062022-200908
+-1.7294367893278282,0.999989495196193,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_900_08062022-184956,08062022-200940
+-1.6624733180054099,0.9877230087978225,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_901_08062022-184956,08062022-201011
+-1.7121852269982365,0.9948630838785741,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_902_08062022-184956,08062022-201044
+-1.901219956848644,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_903_08062022-184956,08062022-201116
+0.04470848269471084,0.29849431963911643,PASS,Successful test,08062022-201151
+-1.8090846965710115,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_905_08062022-184956,08062022-201223
+-1.782115124890539,1.0,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_906_08062022-184956,08062022-201254
+-1.682390639152405,0.998807783004978,FAIL,Car drove out of the lane gabe_meta_parameter_results\gabe_search_variant_a\POP-10_cxpb-0.7_mutpb-0.1\5-RUN_POP-10_cxpb-0.7_mutpb-0.1_08062022-184956/sim_test_907_08062022-184956,08062022-201325
