@@ -28,10 +28,15 @@ In the following a short overview of the repository structure is given.
     
     3. **random_tool_comp_results**: This folder contains the results obtained within the 10 test runs of the *Naive Random (RD_TC)* approach. The folder is structured in the same way as *gabe_control_parameter_results* (see above) with the only exception that here no surface plots are included.
     
-    4. **frenetic_results**: This folder includes the *Frenetic_Master_CSV.csv* file which summarizes the results obtained within the 10 test runs of the *Frenetic* tool. 
+    4. **frenetic_results**: This folder includes the *Frenetic_Master_CSV.csv* file which summarizes the results obtained within the 10 test runs of the *Frenetic*[[1]](#1) tool. 
     <br/><br/>
 
 - *test_generators*: This folder contains the implementations of the different approaches, i.e., *GA-Bézier Search Variant A*, *GA-Bézier Search Variant B*, *GA-Bézier Search Variant C*, in their "default" configuration, as well as *Bezier Random (RD_BEZ)*, and *Naive Random (RD_TC)*. Each of the implementations can be directly used with the code pipeline which was developed in the scope of the Cyber-Physical Systems Testing Tool Competition (SBST2021). 
 
     For setting up the simulation environment and code pipeline we refer the interesting reader to the guides and examples included in https://github.com/se2p/tool-competition-av/releases/tag/2021. It should be noted that a licence is required for the [BeamNG.tech](https://www.beamng.tech/) driving simulator.
 
+
+## References
+<a id="1">[1]</a> 
+Castellano E, Cetinkaya A, Thanh CH, Klikovits S, Zhang X, Arcaini P.
+Frenetic at the SBST2021 Tool Competition. In: 2021 IEEE/ACM 14th International Workshop on Search-Based Software Testing (SBST): 36–37
